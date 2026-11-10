@@ -91,10 +91,12 @@ Check-in from 15:00, check-out by 11:00, as the owners state it on their own Boo
 are not allowed.
 
 ## Prices
-- 5% off every night when you book direct here, cleaning fee unchanged
+- House rate: 5% off every night when you book here, cleaning fee unchanged
 - Penthouse from €475, one-bedrooms from €237 a night, taxes included
 - Free cancellation up to 30 days before arrival
 - Nothing is charged until the hosts confirm
+The house rate is the price for booking directly on this site. On longer stays it is often lower still, and the
+quote shows the exact total and what you save against the standard rate, in euros, before you send anything.
 See the question "How much does a night at Riverbank cost?" above for the full rate table.
 
 ## Booking
